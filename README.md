@@ -1,5 +1,5 @@
 Low contrast images usually lost details of the tissue such as white matter/gray metter.
-This project uses self supervised learning for image contrast enhancement.
+This project uses self supervised learning (SSL) for image contrast enhancement.
 
 
 
